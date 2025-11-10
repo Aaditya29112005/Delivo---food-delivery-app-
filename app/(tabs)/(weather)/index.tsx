@@ -9,6 +9,7 @@ import { Text } from "@/components/ui/text";
 import ForeCastCard from "@/components/screens/weather/forecast-card";
 import RainCard from "@/components/screens/weather/rain-card";
 import Chart from "@/components/screens/weather/chart";
+import HourlyChart from "@/components/screens/weather/hourly-chart";
 import { ScrollView } from "@/components/ui/scroll-view";
 import { WeatherTabContext } from "@/contexts/weather-screen-context";
 import {
@@ -113,6 +114,8 @@ const Hourly = () => {
             );
           })}
         </ScrollView>
+        {/* Interactive hourly chart (mini timeline) */}
+        <HourlyChart />
       </VStack>
 
       {/* ---------------------------- Day forecast ----------------------------- */}
