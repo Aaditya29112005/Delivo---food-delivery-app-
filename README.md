@@ -53,7 +53,6 @@ Installation
     Clone the repository:
     bash
 
-git clone https://github.com/Mueez-lab/Zomato-Food-App.git
 
 Install dependencies:
 bash
