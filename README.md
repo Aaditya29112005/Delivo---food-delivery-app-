@@ -1,4 +1,8 @@
+demo link for app - https://drive.google.com/file/d/10XVrxR058EWHlLeAB8pmDf64ds6Xt3Ah/view?usp=sharing
+
+
 Delivo Food App
+
 
 A React Native application for browsing and ordering food, inspired by Zomato.
 Features
